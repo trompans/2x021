@@ -13,12 +13,7 @@ public class Store : MonoBehaviour {
     public bool  managerUnlocked;
     public float storeCostMultiplier;
 
-    public Text storeCountText;
 
-    public Slider progressSlider;
-
-    public Text buyButtonText;
-    public Button buyButton;
 
     public Image fillColor;
     private float nextStoreCost;

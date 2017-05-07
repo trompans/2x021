@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 24
+  controlID: 49
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -89,8 +89,8 @@ MonoBehaviour:
     y: 505
     width: 991
     height: 140
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -116,7 +116,7 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 645
-  m_MinSize: {x: 538, y: 613}
+  m_MinSize: {x: 713, y: 613}
   m_MaxSize: {x: 18008, y: 18063}
   vertical: 0
   controlID: 90
@@ -138,15 +138,15 @@ MonoBehaviour:
     y: 0
     width: 375
     height: 645
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 14}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
   - {fileID: 15}
   - {fileID: 14}
-  m_Selected: 2
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 2
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 695
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 663}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &9
 MonoBehaviour:
@@ -302,8 +302,8 @@ MonoBehaviour:
     y: 0
     width: 684
     height: 505
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -336,7 +336,7 @@ MonoBehaviour:
     y: 92
     width: 373
     height: 624
-  activeTab: 0
+  activeTab: 1
   branchesTab:
     activeBranchNode:
       Label: testing-desing-pattern
@@ -349,455 +349,538 @@ MonoBehaviour:
       Label: testing-desing-pattern
   changesTab:
     commitBody: 
-    commitMessage: 
+    commitMessage: "A\xF1adir UIStore"
     currentBranch: testing-desing-pattern
-    horizontalScroll: {x: 0, y: 60}
+    horizontalScroll: {x: 0, y: 119}
     tree:
       entries: []
       entryCommitTargets:
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
-      - All: 0
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
+      - All: 1
       - All: 0
       - All: 0
       - All: 0
@@ -832,9 +915,8 @@ MonoBehaviour:
       - All: 0
       foldedTreeEntries:
       - Temp
-      - ProjectSettings
   historyTab:
-    detailsScroll: {x: 0, y: 0}
+    detailsScroll: {x: 0, y: 120}
     historyLocked: 1
     historyTarget: {fileID: 0}
     scroll: {x: 0, y: 0}
@@ -4116,8 +4198,122 @@ MonoBehaviour:
       - All: 0
       - All: 0
       - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
       foldedTreeEntries: []
     history:
+    - CommitID: 9d21c7d7b6fd27be8162e86e8984ffa4f6f44c12
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: Delegates and Events
+      Description: Delegates and Events
+      Changes: []
     - CommitID: 91ecd46a3af729fdb86ce5fd5733b422a50683bf
       MergeA: 
       MergeB: 
@@ -4291,9 +4487,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 082e0000
-    m_LastClickedID: 11784
-    m_ExpandedIDs: 000000004c25000026320000ffffff7f
+    m_SelectedIDs: 0a2e0000
+    m_LastClickedID: 11786
+    m_ExpandedIDs: 000000004c2500002a320000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4321,7 +4517,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c25000026320000
+    m_ExpandedIDs: 000000004c2500002a320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4348,7 +4544,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -4402,10 +4598,10 @@ MonoBehaviour:
     y: 92
     width: 373
     height: 624
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 168.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
-    m_CachedPref: 160
+    m_CachedPref: 123
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
@@ -4437,9 +4633,9 @@ MonoBehaviour:
     height: 206
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: aa310000
-    m_LastClickedID: 12714
-    m_ExpandedIDs: cafbffff0000000084310000
+    m_SelectedIDs: 8c310000
+    m_LastClickedID: 12684
+    m_ExpandedIDs: ccfbffff0000000082310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
