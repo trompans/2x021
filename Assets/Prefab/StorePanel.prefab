@@ -106,6 +106,7 @@ GameObject:
   - component: {fileID: 222773902041857996}
   - component: {fileID: 114093559933450612}
   - component: {fileID: 114968705284904784}
+  - component: {fileID: 114615791284535636}
   m_Layer: 5
   m_Name: StorePanel
   m_TagString: Untagged
@@ -426,6 +427,21 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Slider+SliderEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &114615791284535636
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1558355297123664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6727836eb2753541962b7f5d6fb3880, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  storeCountText: {fileID: 114115704132473838}
+  progressSlider: {fileID: 114456687675035670}
+  buyButtonText: {fileID: 114151184084964734}
+  buyButton: {fileID: 114398665035472002}
 --- !u!114 &114625848237130110
 MonoBehaviour:
   m_ObjectHideFlags: 1

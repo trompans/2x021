@@ -10,6 +10,13 @@ public class UIStore : MonoBehaviour {
     public Text buyButtonText;
     public Button buyButton;
 
+    public Store store;
+
+    private void Awake()
+    {
+        store = transform.GetComponent<Store>();
+    }
+
     // Use this for initialization
     void Start () {
 		
@@ -17,6 +24,8 @@ public class UIStore : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+
+        progressSlider.value = store.currentTimer / store.storeTimer;
+
+    }
 }

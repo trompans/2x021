@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 8}
-  m_MinSize: {x: 950, y: 663}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -193,7 +193,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 695
-  m_MinSize: {x: 950, y: 663}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &9
 MonoBehaviour:
@@ -695,192 +695,228 @@ MonoBehaviour:
       - All: 1
       - All: 1
       - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
       - All: 0
       - All: 0
       - All: 0
@@ -4477,18 +4513,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefab
   m_ViewMode: 1
   m_StartGridSize: 50
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefab
   m_LastFoldersGridSize: 50
   m_LastProjectPath: C:\Users\Public\Documents\Unity Projects\WebTycoon
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0a2e0000
-    m_LastClickedID: 11786
+    m_SelectedIDs: 682a0000
+    m_LastClickedID: 10856
     m_ExpandedIDs: 000000004c2500002a320000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -4544,7 +4580,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -4598,7 +4634,7 @@ MonoBehaviour:
     y: 92
     width: 373
     height: 624
-  m_ScrollPosition: {x: 0, y: 168.95508}
+  m_ScrollPosition: {x: 0, y: 306.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 123
@@ -4635,7 +4671,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8c310000
     m_LastClickedID: 12684
-    m_ExpandedIDs: ccfbffff0000000082310000
+    m_ExpandedIDs: c6fbffffccfbffff0000000082310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4719,9 +4755,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 355.1984
+    m_Target: 371.1823
     speed: 2
-    m_Value: 355.1984
+    m_Value: 371.1823
   m_Ortho:
     m_Target: 1
     speed: 2
