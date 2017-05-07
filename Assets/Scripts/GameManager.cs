@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour {
 
+
+    public delegate void UpdateBalance();
+    public static event UpdateBalance OnUpdateBalance;
+
     public static GameManager instance;
     float currentBalance;
  
@@ -11,13 +15,21 @@ public class GameManager : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        
+
+        currentBalance = 10f;
+
+        if (OnUpdateBalance != null)
+        {
+            OnUpdateBalance();
+        }
     }
 
     // Update is called once per frame
     void Update () {
-		
-	}
+
+        //UpdateUI();
+
+    }
 
     private void Awake()
     {
@@ -28,7 +40,10 @@ public class GameManager : MonoBehaviour {
     public void AddToBalance(float cantidad)
     {
         currentBalance += cantidad;
-        UIManager.instance.UpdateUI();
+        if (OnUpdateBalance != null)
+        {
+            OnUpdateBalance();
+        }
     }
 
     public bool CanBuy(float cantidadaGastar)

@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour {
 
-    public static UIManager instance;
     public Text currentBalanceText;
 
     // Use this for initialization
@@ -18,10 +17,14 @@ public class UIManager : MonoBehaviour {
 		
 	}
 
-    private void Awake()
+    private void OnEnable()
     {
-        if (instance == null)
-            instance = this;
+        GameManager.OnUpdateBalance += UpdateUI;
+    }
+
+    private void OnDisable()
+    {
+        GameManager.OnUpdateBalance -= UpdateUI;
     }
 
     public void UpdateUI()
