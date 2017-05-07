@@ -26,7 +26,7 @@ public class UIManager : MonoBehaviour {
 
     public void UpdateUI()
     {
-        currentBalanceText.text = GameManager.instance.currentBalance.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("es-es"));
+		currentBalanceText.text = GameManager.instance.GetCurrentBalance().ToString("C", System.Globalization.CultureInfo.GetCultureInfo("es-es"));
 
         //Distintas formas de dar formato a ToString... "https://msdn.microsoft.com/es-es/library/dwhawy9k(v=vs.110).aspx"
         //currentBalanceText.text = currentBalance.ToString("C", System.Globalization.CultureInfo.CurrentCulture);

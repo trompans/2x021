@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour {
 
     public static GameManager instance;
-    public float currentBalance;
+    float currentBalance;
  
 
 
@@ -42,5 +42,9 @@ public class GameManager : MonoBehaviour {
             return true;
         }
     }
+
+	public float GetCurrentBalance(){
+		return currentBalance;
+	}
 
 }
