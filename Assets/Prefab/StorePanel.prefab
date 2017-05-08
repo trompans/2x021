@@ -442,6 +442,7 @@ MonoBehaviour:
   progressSlider: {fileID: 114456687675035670}
   buyButtonText: {fileID: 114151184084964734}
   buyButton: {fileID: 114398665035472002}
+  store: {fileID: 0}
 --- !u!114 &114625848237130110
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -601,10 +602,11 @@ MonoBehaviour:
   managerUnlocked: 0
   storeCostMultiplier: 1.02
   storeCountText: {fileID: 114115704132473838}
-  progressSlider: {fileID: 114456687675035670}
   buyButtonText: {fileID: 114151184084964734}
   buyButton: {fileID: 114398665035472002}
   fillColor: {fileID: 114689991032134008}
+  currentTimer: 0
+  startTimer: 0
 --- !u!222 &222051150692053880
 CanvasRenderer:
   m_ObjectHideFlags: 1
