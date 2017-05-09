@@ -1,6 +1,12 @@
 ﻿<gamedata>
+
 	<store>
-		<name></name>
-		<baseStoreCost></baseStoreCost>
+		<name>Wordpress</name>
+		<baseStoreCost>2</baseStoreCost>
+		<baseStoreProfit>0.5</baseStoreProfit>
+		<storeTimer>2</storeTimer>
+		<storeCostMultiplier>1.02</storeCostMultiplier>
 	</store>
+
+
 </gamedata>

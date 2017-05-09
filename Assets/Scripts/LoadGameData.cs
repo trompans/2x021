@@ -15,7 +15,20 @@ public class LoadGameData : MonoBehaviour {
     {
         XmlDocument xmlDoc = new XmlDocument();
         xmlDoc.LoadXml(gameData.text);
-        XmlNodeList storeList = 
+        XmlNodeList storeList = xmlDoc.GetElementsByTagName("store");
+
+        foreach (XmlNode storeInfo in storeList)
+        {
+            //Debug.Log(storeInfo.Name);
+            //Debug.Log(storeInfo.InnerText);
+
+            foreach (XmlNode storeTagName in storeInfo)
+            {
+                Debug.Log(storeTagName.Name);
+                Debug.Log(storeTagName.InnerText);
+            }
+        }
+    
     }
 
 }

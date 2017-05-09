@@ -208,12 +208,12 @@ Prefab:
     - target: {fileID: 224230982554827664, guid: a9f6cf2812fdd094fa14e8ca02f6155f,
         type: 2}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 224230982554827664, guid: a9f6cf2812fdd094fa14e8ca02f6155f,
         type: 2}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a9f6cf2812fdd094fa14e8ca02f6155f, type: 2}
@@ -474,6 +474,7 @@ GameObject:
   - component: {fileID: 1800403284}
   - component: {fileID: 1800403283}
   - component: {fileID: 1800403285}
+  - component: {fileID: 1800403286}
   m_Layer: 0
   m_Name: GameManagerObject
   m_TagString: Untagged
@@ -517,6 +518,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentBalanceText: {fileID: 2047949917}
+--- !u!114 &1800403286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1800403282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307271d172e9f14488c37f82646a24a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameData: {fileID: 4900000, guid: 7ab486f2fb7bb7e45b3465dbddd0fe88, type: 3}
 --- !u!224 &1985984685 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224355741400062678, guid: a9f6cf2812fdd094fa14e8ca02f6155f,

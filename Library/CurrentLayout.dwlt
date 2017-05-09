@@ -37,9 +37,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 227
+    y: 200
     width: 307
-    height: 278
+    height: 271
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 17}
@@ -66,11 +66,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 307
-    height: 505
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
+    height: 471
+  m_MinSize: {x: 232, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 71
+  controlID: 68
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -86,11 +86,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 505
+    y: 471
     width: 991
-    height: 140
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+    height: 174
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -116,10 +116,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 645
-  m_MinSize: {x: 713, y: 613}
-  m_MaxSize: {x: 18008, y: 18063}
+  m_MinSize: {x: 713, y: 592}
+  m_MaxSize: {x: 18008, y: 18042}
   vertical: 0
-  controlID: 112
+  controlID: 90
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,9 +164,9 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 307
-    height: 227
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+    height: 200
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -256,10 +256,10 @@ MonoBehaviour:
     y: 0
     width: 991
     height: 645
-  m_MinSize: {x: 436, y: 613}
-  m_MaxSize: {x: 14006, y: 18063}
+  m_MinSize: {x: 436, y: 592}
+  m_MaxSize: {x: 14006, y: 18042}
   vertical: 1
-  controlID: 113
+  controlID: 91
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -279,11 +279,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 991
-    height: 505
-  m_MinSize: {x: 436, y: 492}
-  m_MaxSize: {x: 14006, y: 14042}
+    height: 471
+  m_MinSize: {x: 436, y: 471}
+  m_MaxSize: {x: 14006, y: 14021}
   vertical: 0
-  controlID: 11
+  controlID: 92
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -301,7 +301,7 @@ MonoBehaviour:
     x: 307
     y: 0
     width: 684
-    height: 505
+    height: 471
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 20}
@@ -350,223 +350,262 @@ MonoBehaviour:
   changesTab:
     commitBody: 
     commitMessage: "A\xF1adir UIStore"
-    currentBranch: testing-desing-pattern
+    currentBranch: Add-XML-dataManager
     horizontalScroll: {x: 0, y: 119}
     tree:
       entries: []
       entryCommitTargets:
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
-      - All: 1
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
       - All: 0
       - All: 0
       - All: 0
@@ -4533,9 +4572,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 319
+    y: 292
     width: 305
-    height: 257
+    height: 250
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -4547,19 +4586,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Data
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 50
   m_LastFolders:
-  - Assets/Data
+  - Assets/Scripts
   m_LastFoldersGridSize: 50
   m_LastProjectPath: C:\Users\Public\Documents\Unity Projects\WebTycoon
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e02e0000
-    m_LastClickedID: 12000
-    m_ExpandedIDs: 00000000522500003a320000ffffff7f
+    m_SelectedIDs: 122e0000
+    m_LastClickedID: 11794
+    m_ExpandedIDs: 00000000522500003e320000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4575,7 +4614,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 2}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -4587,7 +4626,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000522500003a320000
+    m_ExpandedIDs: 00000000522500003e320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4614,7 +4653,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -4631,7 +4670,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 2}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -4639,7 +4678,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 15}
     m_GridSize: 50
   m_DirectoriesAreaWidth: 132
 --- !u!114 &18
@@ -4668,7 +4707,7 @@ MonoBehaviour:
     y: 92
     width: 373
     height: 624
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 300}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 123
@@ -4700,12 +4739,12 @@ MonoBehaviour:
     x: 0
     y: 92
     width: 305
-    height: 206
+    height: 179
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: ccfbffff00000000
+    m_SelectedIDs: cafbffff
+    m_LastClickedID: -1078
+    m_ExpandedIDs: ccfbffff0000000096310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4753,16 +4792,16 @@ MonoBehaviour:
     x: 309
     y: 92
     width: 680
-    height: 484
+    height: 450
   m_SceneLighting: 0
   lastFramingTime: 1022.4758644646002
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 335.09537, y: 299.222, z: 0}
+    m_Target: {x: 332.3463, y: 194.75719, z: 0}
     speed: 2
-    m_Value: {x: 335.09537, y: 299.222, z: 0}
+    m_Value: {x: 332.3463, y: 194.75719, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -4789,9 +4828,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 371.1823
+    m_Target: 435.5217
     speed: 2
-    m_Value: 371.1823
+    m_Value: 435.5217
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -4827,7 +4866,7 @@ MonoBehaviour:
     x: 309
     y: 92
     width: 680
-    height: 484
+    height: 450
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -4838,8 +4877,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     m_HBaseRangeMin: -340
     m_HBaseRangeMax: 340
-    m_VBaseRangeMin: -233.5
-    m_VBaseRangeMax: 233.5
+    m_VBaseRangeMin: -216.5
+    m_VBaseRangeMax: 216.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -4857,9 +4896,9 @@ MonoBehaviour:
       x: 0
       y: 17
       width: 680
-      height: 467
+      height: 433
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 340, y: 233.5}
+    m_Translation: {x: 340, y: 216.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -4867,14 +4906,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -340
-      y: -233.5
+      y: -216.5
       width: 680
-      height: 467
+      height: 433
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 680, y: 484}
+  m_LastWindowPixelSize: {x: 680, y: 450}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -4901,6 +4940,6 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 597
+    y: 563
     width: 989
-    height: 119
+    height: 153
