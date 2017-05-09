@@ -8,7 +8,7 @@ public class LoadGameData : MonoBehaviour {
     public TextAsset gameData;
     public void Start()
     {
-        Invoke("LoadData", 0.5f);
+        Invoke("LoadData", 0.1f);
     }
 
     public void LoadData()
