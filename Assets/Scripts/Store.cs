@@ -63,7 +63,7 @@ public class Store : MonoBehaviour {
 	}
 
     // Own Methods...
-        private void OnEnable()
+    private void OnEnable()
     {
         GameManager.OnUpdateBalance += CheckStoreBuy;
     }
@@ -79,7 +79,6 @@ public class Store : MonoBehaviour {
             buyButton.interactable = true;
         else
             buyButton.interactable = false;
-        buyButtonText.text = "¡Compra! " + nextStoreCost.ToString("##.## €");
     }
 
     public void BuyStoreOnClick()
@@ -93,6 +92,7 @@ public class Store : MonoBehaviour {
         GameManager.instance.AddToBalance(-nextStoreCost);
         nextStoreCost = (baseStoreCost * Mathf.Pow(storeCostMultiplier, storeCount));
         //Debug.Log(nextStoreCost);
+        buyButtonText.text = "¡Compra! " + nextStoreCost.ToString("##.## €");
     }
 
     public void StoreOnClick()
