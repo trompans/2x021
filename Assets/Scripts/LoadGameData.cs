@@ -11,7 +11,9 @@ public class LoadGameData : MonoBehaviour {
     public GameObject StorePanel;
     public void Start()
     {
-        Invoke("LoadData", 0.1f);
+        LoadData();
+        //Para cargar un método con retraso :P...
+        //Invoke("LoadData", 0.1f);
     }
 
     public void LoadData()
@@ -24,6 +26,7 @@ public class LoadGameData : MonoBehaviour {
         {
 
             GameObject newStore = Instantiate(StorePrefab);
+            newStore.transform.SetParent(StorePanel.transform);
             
             //Poner el nombre del store a storeNameText...
             newStore.GetComponentInChildren<Text>().text = storeInfo.SelectSingleNode("name").InnerText;
