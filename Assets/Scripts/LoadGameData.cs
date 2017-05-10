@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Xml;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class LoadGameData : MonoBehaviour {
 
@@ -24,16 +25,26 @@ public class LoadGameData : MonoBehaviour {
 
             GameObject newStore = Instantiate(StorePrefab);
             
-            newStore.name = storeInfo["name"].InnerText;
-                Debug.Log(newStore.name);
+            //Poner el nombre del store a storeNameText...
+            newStore.GetComponentInChildren<Text>().text = storeInfo.SelectSingleNode("name").InnerText;
+
+            //Poner el nombre del store a al objeto store...
             Store storeComponent = newStore.GetComponent<Store>();
-            storeComponent.name = storeList[0].InnerText;
+            storeComponent.name = storeInfo.SelectSingleNode("name").InnerText;
+
+            storeComponent.baseStoreCost = float.Parse(storeInfo.SelectSingleNode("baseStoreCost").InnerText);
+            storeComponent.baseStoreProfit = float.Parse(storeInfo.SelectSingleNode("baseStoreProfit").InnerText);
+            storeComponent.storeTimer = float.Parse(storeInfo.SelectSingleNode("storeTimer").InnerText);
+            storeComponent.storeCostMultiplier = float.Parse(storeInfo.SelectSingleNode("storeCostMultiplier").InnerText);
+
+
+
             
 
             /*
             foreach (XmlNode storeTag in storeInfo)
             {
-                //storeComponent.name = storeTag["name"].InnerText;
+                storeComponent.name = storeTag["name"].InnerText;
                 
                 //newStore.name = XmlNode  .InnerText;
                 //newStore. = storeTag.InnerText;

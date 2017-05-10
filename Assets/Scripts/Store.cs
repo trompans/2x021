@@ -35,6 +35,8 @@ public class Store : MonoBehaviour {
         storeCountText.text = storeCount.ToString();
         nextStoreCost = baseStoreCost;
 
+        buyButtonText.text = "¡Compra! " + nextStoreCost.ToString("##.## €");        
+
         fillColor.color = Color.clear;
 
     }
@@ -56,17 +58,28 @@ public class Store : MonoBehaviour {
                 GameManager.instance.AddToBalance(baseStoreProfit * storeCount);
             }
         }
-        CheckStoreBuy();
+        //CheckStoreBuy();
 		
 	}
 
     // Own Methods...
+        private void OnEnable()
+    {
+        GameManager.OnUpdateBalance += CheckStoreBuy;
+    }
+
+    private void OnDisable()
+    {
+        GameManager.OnUpdateBalance -= CheckStoreBuy;
+    }
+
     public void CheckStoreBuy()
     {
         if (GameManager.instance.CanBuy(nextStoreCost))
             buyButton.interactable = true;
         else
             buyButton.interactable = false;
+        buyButtonText.text = "¡Compra! " + nextStoreCost.ToString("##.## €");
     }
 
     public void BuyStoreOnClick()
@@ -79,7 +92,6 @@ public class Store : MonoBehaviour {
         storeCountText.text = storeCount.ToString();
         GameManager.instance.AddToBalance(-nextStoreCost);
         nextStoreCost = (baseStoreCost * Mathf.Pow(storeCostMultiplier, storeCount));
-        buyButtonText.text = "¡Compra! " + nextStoreCost.ToString("##.## €");
         //Debug.Log(nextStoreCost);
     }
 

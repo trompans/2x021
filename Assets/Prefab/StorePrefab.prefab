@@ -438,6 +438,7 @@ MonoBehaviour:
   progressSlider: {fileID: 114645341501732096}
   buyButtonText: {fileID: 114781260558640462}
   buyButton: {fileID: 114022384941570400}
+  storeNameTextComp: {fileID: 114448317923236680}
   store: {fileID: 0}
 --- !u!114 &114629336440245162
 MonoBehaviour:

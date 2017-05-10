@@ -9,7 +9,7 @@ public class UIStore : MonoBehaviour {
     public Slider progressSlider;
     public Text buyButtonText;
     public Button buyButton;
-
+    
     public Store store;
 
     private void Awake()
@@ -19,7 +19,7 @@ public class UIStore : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-		
+
 	}
 	
 	// Update is called once per frame
