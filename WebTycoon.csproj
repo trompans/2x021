@@ -90,6 +90,7 @@
     <Compile Include="Assets\Scripts\UIStore.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Data\GameData.xml" />
     <None Include="Assets\Editor\GitHub\CREDITS.txt" />
     <None Include="Assets\Editor\GitHub\EULA.txt" />
     <None Include="Assets\Editor\WakaTime\client\dev-requirements.txt" />
