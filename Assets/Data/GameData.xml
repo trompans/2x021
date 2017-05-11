@@ -1,0 +1,20 @@
+﻿<gamedata>
+
+	<store>
+		<name>Wordpress</name>
+		<baseStoreCost>2</baseStoreCost>
+		<baseStoreProfit>0.5</baseStoreProfit>
+		<storeTimer>2</storeTimer>
+		<storeCostMultiplier>1.02</storeCostMultiplier>
+	</store>
+
+	<store>
+		<name>Bootstrap</name>
+		<baseStoreCost>10</baseStoreCost>
+		<baseStoreProfit>2</baseStoreProfit>
+		<storeTimer>4</storeTimer>
+		<storeCostMultiplier>1.01</storeCostMultiplier>
+	</store>
+
+
+</gamedata>

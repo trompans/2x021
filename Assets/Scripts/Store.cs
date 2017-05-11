@@ -13,18 +13,19 @@ public class Store : MonoBehaviour {
     public bool  managerUnlocked;
     public float storeCostMultiplier;
 
+    //Duplicadas en UIStore
+    
     public Text storeCountText;
-
-    public Slider progressSlider;
-
+    //public Slider progressSlider;
     public Text buyButtonText;
     public Button buyButton;
+    
 
     public Image fillColor;
     private float nextStoreCost;
 
-    float currentTimer = 0;
-    bool startTimer;
+    public float currentTimer = 0;
+    public bool  startTimer;
 
 
     // Use this for initialization
@@ -33,6 +34,8 @@ public class Store : MonoBehaviour {
         startTimer = false;
         storeCountText.text = storeCount.ToString();
         nextStoreCost = baseStoreCost;
+
+        buyButtonText.text = "¡Compra! " + nextStoreCost.ToString("##.## €");        
 
         fillColor.color = Color.clear;
 
@@ -55,12 +58,21 @@ public class Store : MonoBehaviour {
                 GameManager.instance.AddToBalance(baseStoreProfit * storeCount);
             }
         }
-        progressSlider.value = currentTimer/storeTimer;
-        CheckStoreBuy();
+        //CheckStoreBuy();
 		
 	}
 
     // Own Methods...
+    private void OnEnable()
+    {
+        GameManager.OnUpdateBalance += CheckStoreBuy;
+    }
+
+    private void OnDisable()
+    {
+        GameManager.OnUpdateBalance -= CheckStoreBuy;
+    }
+
     public void CheckStoreBuy()
     {
         if (GameManager.instance.CanBuy(nextStoreCost))
@@ -79,8 +91,8 @@ public class Store : MonoBehaviour {
         storeCountText.text = storeCount.ToString();
         GameManager.instance.AddToBalance(-nextStoreCost);
         nextStoreCost = (baseStoreCost * Mathf.Pow(storeCostMultiplier, storeCount));
+        //Debug.Log(nextStoreCost);
         buyButtonText.text = "¡Compra! " + nextStoreCost.ToString("##.## €");
-        Debug.Log(nextStoreCost);
     }
 
     public void StoreOnClick()
