@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 10}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -67,10 +67,10 @@ MonoBehaviour:
     y: 0
     width: 312
     height: 645
-  m_MinSize: {x: 232, y: 471}
-  m_MaxSize: {x: 10002, y: 14021}
+  m_MinSize: {x: 232, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 91
+  controlID: 119
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -86,11 +86,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 490
+    y: 476
     width: 682
-    height: 155
-  m_MinSize: {x: 104, y: 121}
-  m_MaxSize: {x: 4004, y: 4021}
+    height: 169
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -116,10 +116,10 @@ MonoBehaviour:
     y: 0
     width: 682
     height: 645
-  m_MinSize: {x: 204, y: 342}
-  m_MaxSize: {x: 4004, y: 8042}
+  m_MinSize: {x: 204, y: 321}
+  m_MaxSize: {x: 4004, y: 8021}
   vertical: 1
-  controlID: 69
+  controlID: 11
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,8 +138,8 @@ MonoBehaviour:
     y: 0
     width: 312
     height: 305
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -164,10 +164,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 645
-  m_MinSize: {x: 711, y: 471}
-  m_MaxSize: {x: 18006, y: 14021}
+  m_MinSize: {x: 711, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
   vertical: 1
-  controlID: 67
+  controlID: 9
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,10 +189,10 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 645
-  m_MinSize: {x: 711, y: 471}
-  m_MaxSize: {x: 18006, y: 14021}
+  m_MinSize: {x: 711, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
   vertical: 0
-  controlID: 68
+  controlID: 10
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   - {fileID: 15}
   - {fileID: 14}
   m_Selected: 0
-  m_LastSelected: 0
+  m_LastSelected: 2
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,7 +241,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 695
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &11
 MonoBehaviour:
@@ -301,7 +301,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 682
-    height: 490
+    height: 476
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 20}
@@ -332,11 +332,11 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 993
+    x: 996
     y: 92
-    width: 373
+    width: 370
     height: 624
-  activeTab: 1
+  activeTab: 0
   branchesTab:
     activeBranchNode:
       Label: testing-desing-pattern
@@ -350,11 +350,2761 @@ MonoBehaviour:
   changesTab:
     commitBody: 
     commitMessage: "A\xF1adir UIStore"
-    currentBranch: testing-desing-pattern
-    horizontalScroll: {x: 0, y: 119}
+    currentBranch: master
+    horizontalScroll: {x: 0, y: 11897.601}
     tree:
       entries: []
       entryCommitTargets:
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
       - All: 0
       - All: 0
       - All: 0
@@ -4678,6 +7428,121 @@ MonoBehaviour:
       - All: 0
       foldedTreeEntries: []
     history:
+    - CommitID: a82eee596ed6b13c6555ba1613a438a68fc7f2b5
+      MergeA: 862a23251da0d48bf790f24d4a79e4e28fc33cc1
+      MergeB: ee84a985d53a44eaa767cd8b47a0630f906b046e
+      AuthorName: trompans
+      AuthorEmail: trompans@spam4.me
+      CommitEmail: noreply@github.com
+      CommitName: GitHub
+      Summary: 'Merge pull request #10 from trompans/testing-desing-pattern'
+      Description: "Merge pull request #10 from trompans/testing-desing-pattern\r\n\r\nTesting
+        desing pattern"
+      Changes: []
+    - CommitID: ee84a985d53a44eaa767cd8b47a0630f906b046e
+      MergeA: ee9fbb4eec0663aee95e4988a1f1b3ac9db670db
+      MergeB: 64cfbf9667ba39b8994f81d08034fcbd7698eb52
+      AuthorName: trompans
+      AuthorEmail: trompans@spam4.me
+      CommitEmail: noreply@github.com
+      CommitName: GitHub
+      Summary: 'Merge pull request #9 from trompans/Add-XML-dataManager'
+      Description: "Merge pull request #9 from trompans/Add-XML-dataManager\r\n\r\nColocacion
+        autom\xE1tica en StorePanelLayer"
+      Changes: []
+    - CommitID: 64cfbf9667ba39b8994f81d08034fcbd7698eb52
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: "Colocacion autom\xE1tica en StorePanelLayer"
+      Description: "Colocacion autom\xE1tica en StorePanelLayer\r\n\r\nSincronizaci\xF3n
+        nextStoreCost arreglada"
+      Changes: []
+    - CommitID: ee9fbb4eec0663aee95e4988a1f1b3ac9db670db
+      MergeA: 6c6880db4f4e40e790dece226284fdf865616136
+      MergeB: 6542d2919b8e5f2aa4431cb32b808795a1ca0925
+      AuthorName: trompans
+      AuthorEmail: trompans@spam4.me
+      CommitEmail: noreply@github.com
+      CommitName: GitHub
+      Summary: 'Merge pull request #8 from trompans/Add-XML-dataManager'
+      Description: "Merge pull request #8 from trompans/Add-XML-dataManager\r\n\r\nAdd
+        xml datamanager"
+      Changes: []
+    - CommitID: 6542d2919b8e5f2aa4431cb32b808795a1ca0925
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: Carga ajustes por xml correctamente
+      Description: "Carga ajustes por xml correctamente\r\n\r\nfalla sincronizaci\xF3n
+        nextStoreCost"
+      Changes: []
+    - CommitID: 94dc793eded39895c2b3be21964079f8f1f94d63
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: Avances XML
+      Description: Avances XML
+      Changes: []
+    - CommitID: 434ad78eec3ee2fed9643b5ebaeecce17e82b565
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: GridLayout Y StorePrefab
+      Description: GridLayout Y StorePrefab
+      Changes: []
+    - CommitID: a7320f5080f9e22d37a7b2e3e6259d9fe9d3d5aa
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: Lee Xml (sin errores)
+      Description: Lee Xml (sin errores)
+      Changes: []
+    - CommitID: 409a48d93fe9c7c454209613b8183ea224ab3611
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: Con errores
+      Description: Con errores
+      Changes: []
+    - CommitID: 6c6880db4f4e40e790dece226284fdf865616136
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: refactoring un poco
+      Description: refactoring un poco
+      Changes: []
+    - CommitID: 526dab5506bfc981902f8b448ff50a6585767f09
+      MergeA: 
+      MergeB: 
+      AuthorName: trompans
+      AuthorEmail: trompans@users.noreply.github.com
+      CommitEmail: trompans@users.noreply.github.com
+      CommitName: trompans
+      Summary: added UIStore (With errors)
+      Description: added UIStore (With errors)
+      Changes: []
     - CommitID: 9d21c7d7b6fd27be8162e86e8984ffa4f6f44c12
       MergeA: 
       MergeB: 
@@ -4861,9 +7726,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 442c0000
-    m_LastClickedID: 11332
-    m_ExpandedIDs: 000000002c270000b2330000ffffff7f
+    m_SelectedIDs: 6e470000
+    m_LastClickedID: 18286
+    m_ExpandedIDs: 00000000b6460000e4460000ec480000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4891,7 +7756,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002c270000b2330000
+    m_ExpandedIDs: 00000000b6460000ec480000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4918,22 +7783,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 2c290000ca260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: UIStore
-      m_OriginalName: UIStore
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 1668
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
@@ -4972,7 +7837,7 @@ MonoBehaviour:
     y: 92
     width: 370
     height: 624
-  m_ScrollPosition: {x: 0, y: 245.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 123
@@ -5007,9 +7872,9 @@ MonoBehaviour:
     height: 284
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: dc260000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 44fbffff000000004c330000
+    m_ExpandedIDs: eab4fcff3cb5fcff7cfbffff000000003e48000066480000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -5057,7 +7922,7 @@ MonoBehaviour:
     x: 314
     y: 92
     width: 678
-    height: 469
+    height: 455
   m_SceneLighting: 0
   lastFramingTime: 1022.4758644646002
   m_2DMode: 1
@@ -5131,7 +7996,7 @@ MonoBehaviour:
     x: 314
     y: 92
     width: 678
-    height: 469
+    height: 455
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -5142,8 +8007,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     m_HBaseRangeMin: -339
     m_HBaseRangeMax: 339
-    m_VBaseRangeMin: -226
-    m_VBaseRangeMax: 226
+    m_VBaseRangeMin: -219
+    m_VBaseRangeMax: 219
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -5161,9 +8026,9 @@ MonoBehaviour:
       x: 0
       y: 17
       width: 678
-      height: 452
+      height: 438
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 339, y: 226}
+    m_Translation: {x: 339, y: 219}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -5171,14 +8036,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -339
-      y: -226
+      y: -219
       width: 678
-      height: 452
+      height: 438
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 678, y: 469}
+  m_LastWindowPixelSize: {x: 678, y: 455}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -5205,6 +8070,6 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 314
-    y: 582
+    y: 568
     width: 678
-    height: 134
+    height: 148
