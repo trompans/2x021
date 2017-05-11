@@ -299,6 +299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96b57e86b9509b04e8027866f4507d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  storeImageButton: {fileID: 0}
   baseStoreCost: 2
   baseStoreProfit: 0.5
   storeTimer: 2
@@ -438,7 +439,6 @@ MonoBehaviour:
   progressSlider: {fileID: 114645341501732096}
   buyButtonText: {fileID: 114781260558640462}
   buyButton: {fileID: 114022384941570400}
-  storeNameTextComp: {fileID: 114448317923236680}
   store: {fileID: 0}
 --- !u!114 &114629336440245162
 MonoBehaviour:
@@ -459,7 +459,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dd1fa0b0997e3f84c83d068807fc1cbb, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

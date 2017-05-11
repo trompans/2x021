@@ -24,17 +24,24 @@ public class LoadGameData : MonoBehaviour {
 
         foreach (XmlNode storeInfo in storeList)
         {
-
+            // Por cada nodo Xml(XmlNode) en storeList instanciamos
+            //un nuevo GameObject(newStore)...
             GameObject newStore = Instantiate(StorePrefab);
+
+            // Lo colocamos dentro del canvas panel StorePanel...
             newStore.transform.SetParent(StorePanel.transform);
             
-            //Poner el nombre del store a storeNameText...
+            // Poner el nombre del store a storeNameText...
             newStore.GetComponentInChildren<Text>().text = storeInfo.SelectSingleNode("name").InnerText;
 
-            //Poner el nombre del store a al objeto store...
+            // Poner el nombre del store a al objeto store...
             Store storeComponent = newStore.GetComponent<Store>();
             storeComponent.name = storeInfo.SelectSingleNode("name").InnerText;
 
+            // Añadimos la imagen del store al botón...
+            storeComponent.transform.Find("ImageButtonClick").GetComponent<Image>().sprite = Resources.Load<Sprite>(storeInfo.SelectSingleNode("name").InnerText);
+
+            // Aññadimos el resto de variables...
             storeComponent.baseStoreCost = float.Parse(storeInfo.SelectSingleNode("baseStoreCost").InnerText);
             storeComponent.baseStoreProfit = float.Parse(storeInfo.SelectSingleNode("baseStoreProfit").InnerText);
             storeComponent.storeTimer = float.Parse(storeInfo.SelectSingleNode("storeTimer").InnerText);

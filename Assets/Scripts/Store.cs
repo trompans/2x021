@@ -13,7 +13,6 @@ public class Store : MonoBehaviour {
     public bool  managerUnlocked;
     public float storeCostMultiplier;
 
-    //Duplicadas en UIStore
     
     public Text storeCountText;
     //public Slider progressSlider;
