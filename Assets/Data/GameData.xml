@@ -1,4 +1,5 @@
 ﻿<gamedata>
+	<textoBalanceActual>10.0</textoBalanceActual>
 
 	<store>
 		<name>Wordpress</name>
@@ -15,6 +16,5 @@
 		<storeTimer>4</storeTimer>
 		<storeCostMultiplier>1.01</storeCostMultiplier>
 	</store>
-
 
 </gamedata>

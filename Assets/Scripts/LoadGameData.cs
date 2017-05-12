@@ -9,6 +9,7 @@ public class LoadGameData : MonoBehaviour {
     public TextAsset gameData;
     public GameObject StorePrefab;
     public GameObject StorePanel;
+
     public void Start()
     {
         LoadData();
@@ -18,8 +19,15 @@ public class LoadGameData : MonoBehaviour {
 
     public void LoadData()
     {
+
         XmlDocument xmlDoc = new XmlDocument();
         xmlDoc.LoadXml(gameData.text);
+
+        // Añadimos el valor de textoBalanceActual a la variable currentBalance...
+        XmlNodeList nodoBalanceActual = xmlDoc.GetElementsByTagName("textoBalanceActual");
+        GameManager.instance.AddToBalance(float.Parse(nodoBalanceActual[0].InnerText));
+
+
         XmlNodeList storeList = xmlDoc.GetElementsByTagName("store");
 
         foreach (XmlNode storeInfo in storeList)
@@ -41,27 +49,12 @@ public class LoadGameData : MonoBehaviour {
             // Añadimos la imagen del store al botón...
             storeComponent.transform.Find("ImageButtonClick").GetComponent<Image>().sprite = Resources.Load<Sprite>(storeInfo.SelectSingleNode("name").InnerText);
 
-            // Aññadimos el resto de variables...
+            // Añadimos el resto de variables...
             storeComponent.baseStoreCost = float.Parse(storeInfo.SelectSingleNode("baseStoreCost").InnerText);
             storeComponent.baseStoreProfit = float.Parse(storeInfo.SelectSingleNode("baseStoreProfit").InnerText);
             storeComponent.storeTimer = float.Parse(storeInfo.SelectSingleNode("storeTimer").InnerText);
             storeComponent.storeCostMultiplier = float.Parse(storeInfo.SelectSingleNode("storeCostMultiplier").InnerText);
 
-
-
-            
-
-            /*
-            foreach (XmlNode storeTag in storeInfo)
-            {
-                storeComponent.name = storeTag["name"].InnerText;
-                
-                //newStore.name = XmlNode  .InnerText;
-                //newStore. = storeTag.InnerText;
-                Debug.Log(storeTag.Name);
-                Debug.Log(storeTag.InnerText);
-            }
-            */
         }
     
     }

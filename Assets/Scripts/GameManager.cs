@@ -16,8 +16,6 @@ public class GameManager : MonoBehaviour {
     // Use this for initialization
     void Start () {
 
-        currentBalance = 10f;
-
         if (OnUpdateBalance != null)
         {
             OnUpdateBalance();
